@@ -17,7 +17,7 @@ The project focuses on:
 
 The dashboard contains multiple pages with slicers, filters, KPI cards, and dynamic visualizations for detailed exploration of the dataset. 
 
----
+
 
 # 🎯 Project Objectives
 
